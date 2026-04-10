@@ -24,4 +24,5 @@ function my_greeting_shortcode() {
     return "<h3>Hello! This content came from a Shortcode.</h3>";
 }
 add_shortcode('greet', 'my_greeting_shortcode');
+//cool
 ?>
